@@ -3,8 +3,9 @@
 
 int main()
 {
-  printf("Hello-World");
-  printf("Wieso seh ich nichts?");
-  printf("Ich seh ich immer noch nichts!");
+  printf("Hello-World\n");
+  printf("Wieso seh ich nichts?\n");
+  printf("Ich seh ich immer noch nichts!\n");
+  printf("Jetzt Ich seh ich was!\n");
   return 0;
 }
