@@ -5,6 +5,6 @@ int main()
 {
   printf("Hello-World");
   printf("Wieso seh ich nichts?");
-  printf("Ich seh ich immer noch nichts?");
+  printf("Ich seh ich immer noch nichts!");
   return 0;
 }
