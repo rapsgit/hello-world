@@ -8,6 +8,6 @@ int main()
   printf("Wieso seh ich nichts?\n");
   printf("Ich seh ich immer noch nichts!\n");
   printf("Jetzt Ich seh ich was!\n");
-  printf("So, das ist jetzt die letzte Anpassung!\n");
+  printf("So, das waren jetzt die letzten Anpassungen!\n");
   return 0;
 }
