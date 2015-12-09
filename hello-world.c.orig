@@ -8,11 +8,10 @@ int main()
   printf("Wieso seh ich nichts?\n");
   printf("Ich seh ich immer noch nichts!\n");
   printf("Jetzt Ich seh ich was!\n");
-<<<<<<< 17487c7fa2e04c6d5c7a75ca95aff42d0cc94d03
-  printf("So, das ist jetzt die letzte Anpassung!\n");
+  printf("So, das waren jetzt die letzten Anpassungen!\n");
+<<<<<<< HEAD
   printf("Juhui!!!!\n");
 =======
-  printf("So, das waren jetzt die letzten Anpassungen!\n");
->>>>>>> patch branch v2.0
+>>>>>>> fa7c4c6e0555b220315df2558d402243dde88282
   return 0;
 }
