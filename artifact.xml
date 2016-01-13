@@ -6,7 +6,7 @@
     </formats>
     <fileSets>
         <fileSet>
-            <directory>Artifacts</directory>
+            <directory>@nxs.solution.configuration@</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
                 <include>**/**</include>
