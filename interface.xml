@@ -5,7 +5,6 @@
     <formats>
         <format>zip</format>
     </formats>
-    <baseDirectory>ownstuff</baseDirectory>
     <fileSets>
         <fileSet>
             <directory>${project.basedir}/newdir</directory>

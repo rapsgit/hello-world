@@ -4,10 +4,9 @@
     <formats>
         <format>zip</format>
     </formats>
-    <baseDirectory>stuff</baseDirectory>
     <fileSets>
         <fileSet>
-            <directory>@nxs.solution.configuration@/</directory>
+            <directory>${project.basedir}/Default</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
                 <include>*.exe</include>
