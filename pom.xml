@@ -26,12 +26,6 @@
                                         <filter token="solution.configuration" value="Default"/>
                                     </filterset>
                                 </copy>
-                                <copy file="artifact.xml" toFile="Neu/debug-artifacts.xml">
-                                    <filterset>
-                                        <filter token="build.mode" value="debug"/>
-                                        <filter token="solution.configuration" value="Neu"/>
-                                    </filterset>
-                                </copy>
                             </tasks>
                         </configuration>
                     </execution>
