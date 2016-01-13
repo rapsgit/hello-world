@@ -36,10 +36,10 @@
                 <artifactId>maven-assembly-plugin</artifactId>
                 <version>2.3</version>
                 <configuration>
-                    <descriptors>
+                  <finalName>BLABLA-1.0.0</finalName>
+                  <descriptors>
                         <descriptor>Artifacts/release-artifacts.xml</descriptor>
-                        <descriptor>interface.xml</descriptor>        <!-- this assembly contains the public interface (.h files) -->
-                    </descriptors>
+                  </descriptors>
                 </configuration>
                 <executions>
                     <execution>
