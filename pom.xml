@@ -38,7 +38,6 @@
                 <configuration>
                     <descriptors>
                         <descriptor>Default/release-artifacts.xml</descriptor>
-                        <descriptor>Neu/debug-artifacts.xml</descriptor>
                         <descriptor>interface.xml</descriptor>        <!-- this assembly contains the public interface (.h files) -->
                     </descriptors>
                 </configuration>
