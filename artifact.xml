@@ -6,7 +6,7 @@
     </formats>
     <fileSets>
         <fileSet>
-            <directory>${solution.configuration}\</directory>
+            <directory>${solution.configuration}</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
                 <include>**/**</include>
