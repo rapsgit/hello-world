@@ -6,7 +6,7 @@
     </formats>
     <fileSets>
         <fileSet>
-            <directory>@nxs.solution.configuration@</directory>
+            <directory>${project.basedir}/@nxs.solution.configuration@</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
                 <include>**/**</include>
