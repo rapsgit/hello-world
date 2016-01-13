@@ -20,10 +20,10 @@
                         </goals>
                         <configuration>
                             <tasks>
-                                <copy file="artifact.xml" toFile="Default/release-artifacts.xml">
+                                <copy file="artifact.xml" toFile="Artifacts/release-artifacts.xml">
                                     <filterset>
                                         <filter token="build.mode" value="release"/>
-                                        <filter token="solution.configuration" value="Default"/>
+                                        <filter token="solution.configuration" value="Artifacts"/>
                                     </filterset>
                                 </copy>
                             </tasks>
@@ -37,7 +37,7 @@
                 <version>2.3</version>
                 <configuration>
                     <descriptors>
-                        <descriptor>Default/release-artifacts.xml</descriptor>
+                        <descriptor>Artifacts/release-artifacts.xml</descriptor>
                         <descriptor>interface.xml</descriptor>        <!-- this assembly contains the public interface (.h files) -->
                     </descriptors>
                 </configuration>
